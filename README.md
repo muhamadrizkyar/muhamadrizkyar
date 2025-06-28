@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hello%2C+Welcome+to+my+GitHub!;I'm+a+Student+at+Universitas+BSI;PHP+%7C+CodeIgniter+%7C+Laravel+Enthusiast;Python+%7C+Flutter+Beginner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hello%2C+Welcome+to+my+GitHub!;I'm+a+Student+at+Universitas+BSI;PHP+%7C+CI+%7C+Laravel+Enthusiast;Python+%7C+Flutter+Beginner" alt="Typing SVG" />
 </p>
 
 ---
